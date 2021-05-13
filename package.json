@@ -1,0 +1,32 @@
+{
+  "name": "hello-ci-workflow",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "description": "![cover](http://3.bp.blogspot.com/-Kgww2PNR4Ro/VTpOIttmdRI/AAAAAAAAkbw/xXl51zGzl6Q/s1600/cover.png)",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbmiao/hello-ci-workflow.git"
+  },
+  "keywords": [
+    "Bing0223"
+  ],
+  "author": "Daniel Miao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbmiao/hello-ci-workflow/issues"
+  },
+  "homepage": "https://github.com/rbmiao/hello-ci-workflow#readme"
+}
