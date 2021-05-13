@@ -1,4 +1,7 @@
-# DevOps：持續整合＆持續交付（Docker、CircleCI、AWS）[![Circle CI](https://circleci.com/gh/amowu/hello-ci-workflow.svg?style=svg)](https://circleci.com/gh/amowu/hello-ci-workflow)
+# DevOps：持續整合＆持續交付（Docker、CircleCI、AWS）
+
+
+[![Circle CI](https://circleci.com/gh/amowu/hello-ci-workflow.svg?style=svg)](https://circleci.com/gh/amowu/hello-ci-workflow)
 
 ![cover](http://3.bp.blogspot.com/-Kgww2PNR4Ro/VTpOIttmdRI/AAAAAAAAkbw/xXl51zGzl6Q/s1600/cover.png)
 
